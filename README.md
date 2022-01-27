@@ -2,7 +2,7 @@
 Hi, I'm Keritial (formerly called O7I2).  
 Hmmm... What can I say..? Hey there?
 
-Currently learning nothing~~TypeScript/JavaScript and Rust~~.
+Currently learning nothing ~~TypeScript/JavaScript and Rust~~.
 
 ### Contact
 bilibili: [@Keritial](https://space.bilibili.com/393815403)   
