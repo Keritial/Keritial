@@ -2,7 +2,7 @@
 Hi, I'm Keritial (formerly called O7I2).  
 Hmmm... What can I say..? Hey there?
 
-Learning TypeScript and Kotlin (at least planned) currently.
+Learning TypeScript and Kotlin ~~(at least planned)~~ currently.
 
 ### Contact
 bilibili: [@Keritial](https://space.bilibili.com/393815403)   
