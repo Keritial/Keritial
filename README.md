@@ -9,7 +9,7 @@ Hmmm... What can I say..? Hey there?
 
 ### Contact
 
-Here're some ways to get in touch with me~~, though maybe nobody will notice me :/~~
+Here're some ways to get in touch with me ~~though maybe nobody will notice me :/~~
 
 bilibili: [@Keritial](https://space.bilibili.com/393815403)   
 Website: https://krtl.top
