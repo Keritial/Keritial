@@ -1,15 +1,22 @@
 ## Keritial  
+
 Hi, I'm Keritial (formerly called O7I2).  
+A completely beginner on programming.
+
+I'm learning TypeScript currently.
+
 Hmmm... What can I say..? Hey there?
 
-Learning TypeScript currently.
-
 ### Contact
+
+Here're some ways to get in touch with me~~, though maybe nobody will notice me :/~~
+
 bilibili: [@Keritial](https://space.bilibili.com/393815403)   
-Website: [https://keritial.xyz](https://keritial.xyz)  
+Website: https://krtl.top
 E-mail: [me@krtl.top](mailto:me@krtl.top)  
 
 ### Some ~~useless~~ stats
+
 [![Keritial's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keritial&show_icons=true)](https://github.com/Keritial)
 [![Keritial's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keritial&layout=compact)](https://github.com/Keritial)  
 
