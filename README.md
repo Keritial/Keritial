@@ -12,7 +12,7 @@ Hmmm... What can I say..? Hey there?
 Here're some ways to get in touch with me ~~though maybe nobody will notice me :/~~
 
 bilibili: [@Keritial](https://space.bilibili.com/393815403)   
-Website: https://krtl.top
+Website: https://krtl.top  
 E-mail: [me@krtl.top](mailto:me@krtl.top)  
 
 ### Some ~~useless~~ stats
