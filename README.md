@@ -1,11 +1,15 @@
 ## Keritial  
 
-Hi, I'm Keritial (formerly called O7I2).  
-A beginner on programming.
-
-Currently learning TypeScript ~~and Google and StackOverflow -oriented Programming~~.
+Hi, I'm Keritial (formerly called O7I2).
+A junior developer.
 
 Hmmm... What can I say..? Hey there?
+
+### Interest
+
+Learning Rust and Web.
+
+I play Minecraft and Arknights.
 
 ### Contact me
 
