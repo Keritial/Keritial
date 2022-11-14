@@ -16,7 +16,7 @@ Here're some ways to get in touch with me ~~though nobody may would like to do t
 
 Twitter: [@Keritial](https://twitter.com/Keritial)  
 Discord: Keritial#0712  
-E-mail: [a@krt.one](mailto:a@krt.one)  
+E-mail: [a@krtl.top](mailto:a@krtl.top)  
 
 ### ~~*Useless*~~ stats
 
