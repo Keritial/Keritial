@@ -6,7 +6,7 @@ Hmmm... What can I say..? Hey there?
 
 ### Interests
 
-Learning Rust and Web.
+Planned to learn Web technologies, Rust and more.
 
 Playing Minecraft and Arknights.
 
@@ -16,6 +16,7 @@ Here're some ways to get in touch with me ~~though nobody may would like to do t
 
 Twitter: [@Keritial](https://twitter.com/Keritial)  
 Discord: Keritial#0712  
+Telegram: [@Keritial](https://t.me/Keritial)  
 E-mail: [a@krtl.top](mailto:a@krtl.top)  
 
 ### ~~*Useless*~~ stats
