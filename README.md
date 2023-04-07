@@ -7,7 +7,7 @@ Hmmm... What can I say..? Hey there?
 ### Interests
 
 Junior Web developer, planned to go further.  
-Thanks [Char2s](https://github.com/@TheNightmareX) and others for giving me countless help!
+Thanks [Char2s](https://github.com/TheNightmareX) and others for giving me countless help!
 
 Plays Minecraft and Arknights.
 
