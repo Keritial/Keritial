@@ -10,6 +10,8 @@ Junior Web developer, planned to go further.
 
 Plays Minecraft and Arknights.
 
+~~There is really not much I can tell to introduce myself...~~
+
 ### Contact me
 
 Here're some ways to get in touch with me ~~though nobody may would like to do that :/~~
@@ -17,4 +19,4 @@ Here're some ways to get in touch with me ~~though nobody may would like to do t
 Twitter: [@Keritial](https://twitter.com/Keritial)  
 Discord: Keritial#0712  
 Telegram: [@Keritial](https://t.me/Keritial)  
-E-mail: [keritial@gmail.xom](mailto:keritial@gmail.com)  
+E-mail: [keritial@gmail.com](mailto:keritial@gmail.com)  
