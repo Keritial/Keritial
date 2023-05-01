@@ -8,6 +8,8 @@ Hmmm... What can I say..? Hey there?
 
 "Gen Z", student.
 
+INFP-T maybe(
+
 Junior Web developer, planned to go further.  
 Thanks [Char2s](https://github.com/TheNightmareX) and others for giving me countless help.
 
