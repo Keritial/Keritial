@@ -6,16 +6,16 @@ Hmmm... What can I say..? Hey there?
 
 ### Me
 
-"Gen Z", student.
+"Gen Z". High school student.
 
 INFP-T maybe(
 
-Junior Web developer, planned to go further.  
+Junior developer, planned to go further.  
 Thanks [Char2s](https://github.com/TheNightmareX) and others for giving me countless help.
 
 ### Interests
 
-Plays *Minecraft*, *Arknights*, ~~(used to) *Genshin Impact*~~ and *Honkai: Star Rail*.
+Plays *Minecraft*, *Arknights* and *Honkai: Star Rail*, occasionally ~~*Genshin Impact*~~ *Phigros*, *Arcaea* and more.
 
 ~~There is really not much I can tell to introduce myself...~~
 
@@ -29,4 +29,4 @@ Telegram: [@Keritial](https://t.me/Keritial)
 E-mail: [keritial@gmail.com](mailto:keritial@gmail.com)  
 
 
-~~（偷偷摸摸吐槽一下，感觉上面没啥重要信息）~~
+~~（偷偷摸摸吐槽一下，感觉没啥有用信息）~~
