@@ -21,7 +21,7 @@ Here're some ways to get in touch with me ~~though perhaps nobody would like to 
 
 E-mail: [keritial@gmail.com](mailto:keritial@gmail.com)  
 X (formerly Twitter): [@Keritial](https://x.com/Keritial)  
-Mastodon: (@Keritial)[https://mastodon.social/@Keritial]  
+Mastodon: [@Keritial](https://mastodon.social/@Keritial)  
 Discord: Keritial (Legacy ID: #0712)  
 Telegram: [@Keritial](https://t.me/Keritial)  
 
