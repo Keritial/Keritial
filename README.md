@@ -35,7 +35,7 @@ Main:
 ~~*玩这么菜就别发了*~~
 
 Not often:
-- O.N.G.E.N.K.I.
+- O.N.G.E.K.I.
 - miHoYo/HoYoVerse titles
 
 ### Contact me
