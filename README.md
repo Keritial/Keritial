@@ -28,8 +28,8 @@ Avaliable language(s): zh-Hans-CN (Mandarin, native), en<!-- ~~(tbh，我不能�
 
 Main:
 - Minecraft
-- 中二节奏 2026 / CHUNITHM VERSE (Rating 14.5)
-- 舞萌DX 2026 / maimai DX PRiSM PLUS (Rating 12395)
+- 中二节奏 2026 / CHUNITHM VERSE (Rating 14.78)
+- 舞萌DX 2026 / maimai DX PRiSM PLUS (Rating 12799)
 - Arknights
 
 ~~*玩这么菜就别发了*~~
