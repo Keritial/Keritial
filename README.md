@@ -29,7 +29,7 @@ Avaliable language(s): zh-Hans-CN (Mandarin, native), en<!-- ~~(tbh，我不能�
 Main:
 - Minecraft
 - 中二节奏 2026 (CHUNITHM VERSE) Rating 14.93
-- 舞萌DX 2026 (maimai DX PRiSM PLUS) Rating 12921
+- 舞萌DX 2026 (maimai DX PRiSM PLUS) Rating 12957
 - Arknights (HyperGryph CN server)
 
 ~~*玩这么菜就别发了*~~
